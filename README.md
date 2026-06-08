@@ -38,7 +38,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ### What I learned
 
 - In this challenge, I put my visual skills to the test to judge how the containers and, above all, the text in the project look.
-- I learned how to use aria-label so that screen readers can better guide the user. I also learned how to use <ul> and <li> after researching the correct way to use <nav>.
+- I learned how to use aria-label so that screen readers can better guide the user. I also learned how to use `ul` and `li` after researching the correct way to use `nav`.
 - In CSS, everything has been fairly standard, but this time, to get more exact numbers, I used a rem-to-pixel calculator for greater precision. I also applied the use of :last-of-type, which is very useful for removing margins from the last elements, and I practiced better use of :hover.
 
 
